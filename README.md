@@ -6,8 +6,8 @@ KolodaView [![Carthage compatible](https://img.shields.io/badge/Carthage-compati
 Check this [article on our blog](https://yalantis.com/blog/how-we-built-tinder-like-koloda-in-swift/).
 And another one [article on our blog](https://yalantis.com/blog/koloda-tinder-like-animation-version-2-prototyping-in-pixate-and-development-in-swift/)
 
-![Preview](https://github.com/daniel41nilsen/KolodaView-swift//blob/master/Koloda_v2_example_animation.gif)
-![Preview](https://github.com/daniel41nilsen/KolodaView-swift//blob/master/Koloda_v1_example_animation.gif)
+![Preview](https://github.com/daniel41nilsen/KolodaView-swift/blob/master/Koloda_v2_example_animation.gif)
+![Preview](https://github.com/daniel41nilsen/KolodaView-swift/blob/master/Koloda_v1_example_animation.gif)
 
 Purpose
 --------------
@@ -253,7 +253,7 @@ Version 3.0
 
 - Ability to dynamically insert/delete/reload specific cards
 - External animator
-- Major refactoring. [More information](https://github.com/daniel41nilsen/KolodaView-swift//releases/tag/3.0.0)
+- Major refactoring. [More information](https://github.com/daniel41nilsen/KolodaView-swift/releases/tag/3.0.0)
 - Swift 2.2 support
 
 Version 2.0
@@ -273,7 +273,7 @@ Version 1.0
 
 - [BroApp](https://itunes.apple.com/ua/app/bro-social-networking-bromance/id1049979758?mt=8).
 
-![Preview](https://github.com/daniel41nilsen/KolodaView-swift//blob/master/Example/UsageExamples/bro.gif)
+![Preview](https://github.com/daniel41nilsen/KolodaView-swift/blob/master/Example/UsageExamples/bro.gif)
 - [Storage Space Plus](https://itunes.apple.com/us/app/storage-space-plus-compress/id1086277462?mt=8).
 
 
